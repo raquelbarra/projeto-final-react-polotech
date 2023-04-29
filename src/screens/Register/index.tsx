@@ -141,17 +141,17 @@ const Register: React.FC<IRegisterProps> = ({ onSubmit }) => {
                         <RegisterInputGroup>
                             <RegisterInputBox>
                                 <RegisterLabel>Nome</RegisterLabel>
-                                <RegisterInput type="text" name="name" placeholder="Informe seu e-mail cadastrado" value={formData.name} onChange={handleChange}/>
+                                <RegisterInput type="text" name="name" placeholder="Informe seu nome para cadastro" value={formData.name} onChange={handleChange}/>
                             </RegisterInputBox>
 
                             <RegisterInputBox>
                                 <RegisterLabel>E-mail</RegisterLabel>
-                                <RegisterInput type="mail" name="email" placeholder="Informe seu e-mail cadastrado" value={formData.email} onChange={handleChange}/>
+                                <RegisterInput type="mail" name="email" placeholder="Informe sua idade para cadastro" value={formData.email} onChange={handleChange}/>
                             </RegisterInputBox>
 
                             <RegisterInputBox>
                                 <RegisterLabel>Idade</RegisterLabel>
-                                <RegisterInput type="number" name="age" placeholder="Informe seu e-mail cadastrado" pattern="[0-9]+" value={formData.age} onChange={handleChange} />
+                                <RegisterInput type="number" name="age" placeholder="Informe sua idade para cadastrado (à partir de 18)" pattern="[0-9]+" value={formData.age} onChange={handleChange} />
                             </RegisterInputBox>
                         </RegisterInputGroup>
                         <DivRegisterConfirmButton>
