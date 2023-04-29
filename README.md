@@ -7,6 +7,9 @@ Linkedin: <https://www.linkedin.com/in/raquel-barra/>
 ## Introdução:
 Neste repositório estão disponíveis os projetos realizados durante o módulo React II da formação Frontend do projeto Americanas Polotech
 
+## Demonstração:
+O Projeto 3 possui um compilado do conteúdo ministrado. Clique aqui para acessar o site <https://projeto-final-react-polotech-v6rw.vercel.app/>
+
 ## Lista
 
 ### Projeto 1: Site educacional de matemática
