@@ -19,7 +19,7 @@ export const LoginContainer = styled.div`
     display: flex;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
 
-    @media (max-width: 1330px) {
+    @media (max-width: 1000px) {
         width: 50%;
     }
 
@@ -41,7 +41,7 @@ export const LoginLeft = styled.div`
         width: 31rem;
     }
 
-    @media (max-width: 1330px) {
+    @media (max-width: 1000px) {
         display: none;
     }
 `;
@@ -55,7 +55,7 @@ export const LoginForm = styled.form`
     background-color: #bf9d9d;
     padding: 3rem;
 
-    @media (max-width: 1330px) {
+    @media (max-width: 1000px) {
         width: 100%;
     }
 `;
