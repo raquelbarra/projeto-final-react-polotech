@@ -146,7 +146,7 @@ const Register: React.FC<IRegisterProps> = ({ onSubmit }) => {
 
                             <RegisterInputBox>
                                 <RegisterLabel>E-mail</RegisterLabel>
-                                <RegisterInput type="mail" name="email" placeholder="Informe sua idade para cadastro" value={formData.email} onChange={handleChange}/>
+                                <RegisterInput type="mail" name="email" placeholder="Informe seu e-mail para cadastro" value={formData.email} onChange={handleChange}/>
                             </RegisterInputBox>
 
                             <RegisterInputBox>
