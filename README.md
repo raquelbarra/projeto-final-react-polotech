@@ -36,5 +36,6 @@ https://user-images.githubusercontent.com/8225317/235283237-b7dbafab-742e-45e0-8
 ![6](https://user-images.githubusercontent.com/8225317/235372542-570359b8-7b8d-48e4-ae47-d337986f0743.jpg)
 
 Clique aqui para acessar o site <https://projeto-final-react-polotech-v6rw.vercel.app/>
+
 Linkedin: <https://www.linkedin.com/in/raquel-barra/>
 
